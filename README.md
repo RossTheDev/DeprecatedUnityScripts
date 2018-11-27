@@ -1,2 +1,2 @@
 # My Unity Scripts
-Made these scripts for my indie game Slime Adventure. 
+Scripts ive made on my journey through unity
